@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "928576003568",
+    "project_id": "digitallogin-4ee65",
+    "storage_bucket": "digitallogin-4ee65.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:928576003568:android:dc705caa813d6ea21fd135",
+        "android_client_info": {
+          "package_name": "com.digitallogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "928576003568-f87q6eg9pv1k38td8i1uhlblrc45ll7t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.digitallogin",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "928576003568-b0uhfil3sp4tps0oivlkadg8ajpgift7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBN2iafwi40QiCKArAkiIuEBVRnc2IzJEo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "928576003568-b0uhfil3sp4tps0oivlkadg8ajpgift7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
